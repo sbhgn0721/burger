@@ -2,6 +2,8 @@ body {
     background-color: rgb(240, 167, 9);
 }
 
+
+
 img {
     width: 100px;
     height: 100px;
@@ -18,19 +20,32 @@ h1 {
 
 }
 
+
+
 #available {
     float: left;
-    margin-left: 20%;
+    padding-left: 20%;
+    
+    
 }
+
+#devoured {
+    padding-left: 15%;
+    color: gray;
+    
+}
+
+
 
 li {
     font-size: 20px;
     list-style-type: none;
+    
 }
 
 #add {
     clear: both;
-    margin-top: 5%;
-    margin-left: -25%;
+    margin-top: 8%;
+   
     text-align: center;
 }
