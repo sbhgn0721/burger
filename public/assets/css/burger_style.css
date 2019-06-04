@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(240, 167, 9);
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+#available {
+    float: left;
+    margin-left: 20%;
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+#add {
+    clear: both;
+    margin-top: 5%;
+    margin-left: -25%;
+    text-align: center;
+}
