@@ -1,5 +1,8 @@
 # burger
 
+### Heroku deployment
+https://shrouded-sea-89056.herokuapp.com/
+
 ### Overview
 * The burger app is a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). 
 * User can add new burger in the input box and submit it. The burger available to eat will appear at the left side, and when user click the button "devour it", the burger will delete from the available area, and add to the devoured the area (The name of the burger becomes gray)
